@@ -1,0 +1,31 @@
+\babel@toc {portuguese}{}
+\contentsline {chapter}{\numberline {1}Principais Componentes}{3}%
+\contentsline {section}{\numberline {1.1}Cliente}{3}%
+\contentsline {subsection}{\numberline {1.1.1}Client}{3}%
+\contentsline {subsection}{\numberline {1.1.2}ClientRaft}{3}%
+\contentsline {subsection}{\numberline {1.1.3}Command}{3}%
+\contentsline {section}{\numberline {1.2}Servidor}{3}%
+\contentsline {subsection}{\numberline {1.2.1}Service}{3}%
+\contentsline {subsection}{\numberline {1.2.2}ServerRaft}{4}%
+\contentsline {subsection}{\numberline {1.2.3}ServerConnection}{4}%
+\contentsline {subsection}{\numberline {1.2.4}StateMachine}{4}%
+\contentsline {subsection}{\numberline {1.2.5}LogEntry}{4}%
+\contentsline {subsection}{\numberline {1.2.6}Command}{4}%
+\contentsline {subsection}{\numberline {1.2.7}AppendEntries}{4}%
+\contentsline {subsection}{\numberline {1.2.8}AppendEntryResponse}{5}%
+\contentsline {subsection}{\numberline {1.2.9}ServerState}{5}%
+\contentsline {subsection}{\numberline {1.2.10}RequestVote}{5}%
+\contentsline {subsection}{\numberline {1.2.11}RequestVoteResponse}{5}%
+\contentsline {subsection}{\numberline {1.2.12}Election Timer}{5}%
+\contentsline {section}{\numberline {1.3}Ficheiros de Configuração}{6}%
+\contentsline {subsection}{\numberline {1.3.1}No Cliente}{6}%
+\contentsline {subsection}{\numberline {1.3.2}No Servidor}{6}%
+\contentsline {chapter}{\numberline {2}Decisões Arquiteturais}{7}%
+\contentsline {section}{\numberline {2.1}Arquitetura Multi Thread}{8}%
+\contentsline {subsection}{\numberline {2.1.1}Aceitar conexões de clientes}{8}%
+\contentsline {subsection}{\numberline {2.1.2}ReceiveCommandsThread}{8}%
+\contentsline {subsection}{\numberline {2.1.3}Aceitar conexões de servidores}{9}%
+\contentsline {subsection}{\numberline {2.1.4}ServersThread}{9}%
+\contentsline {subsection}{\numberline {2.1.5}Update ao Commit Index}{9}%
+\contentsline {subsection}{\numberline {2.1.6}Contar Votos}{9}%
+\contentsline {chapter}{\numberline {3}Instruções de Uso}{10}%
